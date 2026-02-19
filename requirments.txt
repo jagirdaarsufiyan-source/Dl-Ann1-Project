@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-tensorflow==2.15.0
-=======
-tensorflow==2.10.0
+tensorflow==2.16.1
 pandas
->>>>>>> 0cc4705dbcd4481b6146460b19a195246792efc4
 numpy
 scikit-learn
 tensorboard
